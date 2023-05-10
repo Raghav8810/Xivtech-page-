@@ -1,2 +1,2 @@
-# Click Here To Visit Site https://xivtech-page.netlify.app
+# Click Here To Visit Site xivtech-page.netlify.app
 # Xivtech-page-
